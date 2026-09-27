@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nawaid 👋
 
-<!--
-**Nawaid15/Nawaid15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a First Year Computer Engineering student who likes building things and learning by doing.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- Data Structures & Algorithms
+- Python
+- AI & Generative AI
+
+## 🛠️ Projects
+
+Currently building and experimenting with projects while learning different areas of software development.
+
+- 🤖 AI & Automation
+- 💻 C++ & DSA
+
+More projects coming as I continue learning and building.
+
+## 📈 Learning Journey
+
+I learn by building small projects, experimenting with ideas, and understanding how things work along the way.
+
+> Learn → Build → Experiment → Improve
