@@ -16,7 +16,7 @@ Currently building and experimenting with projects while learning different area
 - 🤖 AI & Automation
 - 💻 C++ & DSA
 
-More projects coming as I continue learning and building.
+Continuing to learn, experiment, and build.
 
 ## 📈 Learning Journey
 
