@@ -1,6 +1,6 @@
 # Hi, I'm Nawaid 👋
 
-I'm a First Year Computer Engineering student who likes building things and learning by doing.
+I'm a first-year Computer Engineering student interested in programming, AI, and automation. I enjoy experimenting with different technologies and creating practical solutions.
 
 ## 🚀 Currently Learning
 
@@ -11,15 +11,9 @@ I'm a First Year Computer Engineering student who likes building things and lear
 
 ## 🛠️ Projects
 
-Currently building and experimenting with projects while learning different areas of software development.
+Here are some things I've made so far.
 
-- 🤖 AI & Automation
+- 🐍 Python & Automation
 - 💻 C++ & DSA
 
-Continuing to learn, experiment, and build.
-
-## 📈 Learning Journey
-
-I learn by building small projects, experimenting with ideas, and understanding how things work along the way.
-
-> Learn → Build → Experiment → Improve
+More to come!
